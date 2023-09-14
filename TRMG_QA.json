@@ -1,0 +1,62 @@
+[
+  {
+    "question": "What measures should be taken regarding security-sensitive areas?",
+    "detailed_summary": "There should be a segregation of delivery and common areas from security-sensitive areas.",
+    "clause": "segregation of delivery and common areas from security sensitive areas should be enforced.",
+    "page_number": "32"
+  },
+  {
+    "question": "What are the key components of the incident management framework?",
+    "detailed_summary": "The framework should cover the process for handling IT incidents, maintenance of evidence, and roles of staff. It should also address cyber-related incidents and the responsibilities of external parties.",
+    "clause": "7.7.3: The incident management framework should minimally cover: the process and procedure for handling IT incidents, including cyber related incidents; maintenance and protection of supporting evidence for the investigation and diagnosis of incidents; and the roles and responsibilities of staff and external parties involved in recording, analysis, escalation, decision-making, resolution and monitoring of incidents.",
+    "page_number": "26"
+  },
+  {
+    "question": "How should outdated and unsupported hardware and software be managed?",
+    "detailed_summary": "The FI should obtain management dispensation for their continued use. This dispensation should have a validity period based on the risks and mitigation measures, and it should be reviewed periodically.",
+    "clause": "7.3.3: The FI should obtain dispensation from its management for the continued use of outdated and unsupported hardware and software. The dispensation should be assigned a validity period that is commensurate with the identified risks and risk mitigation measures. The dispensation should be reviewed periodically to ensure the attendant risks remain at an acceptable level.",
+    "page_number": "24"
+  },
+  {
+    "question": "What standards are recommended to minimize software vulnerabilities?",
+    "detailed_summary": "The FI should adopt standards on secure coding, source code review, and application security testing. These standards should cover areas like secure programming practices, input validation, and more.",
+    "clause": "6.1.1 - 6.1.2: Software bugs or vulnerabilities are typically targeted and exploited by threat actors... secure coding and source code review standards should cover areas such as secure programming practices, input validation, output encoding, access controls...",
+    "page_number": "19"
+  },
+  {
+    "question": "How should patches be managed?",
+    "detailed_summary": "A patch management process should be established to ensure patches are implemented timely based on their criticality. Patches should also be tested before application to ensure compatibility.",
+    "clause": "7.4.1 - 7.4.2: A patch management process should be established to ensure applicable functional and non-functional patches (e.g. fixes for security vulnerabilities and software bugs) are implemented within a timeframe that is commensurate with the criticality of the patches and the FI’s IT systems. Patches should be tested before they are applied to the FI’s IT systems in the production environment to ensure compatibility with existing IT systems or they do not introduce problems to the IT environment.",
+    "page_number": "24"
+  },
+  {
+    "question": "How should changes to information assets be managed?",
+    "detailed_summary": "The FI should have a change management process to ensure changes are assessed, tested, reviewed, and approved before implementation. A risk and impact analysis should be conducted, and changes should be tested in a test environment.",
+    "clause": "7.5.1 - 7.5.3: The FI should establish a change management process to ensure changes to information assets are assessed, tested, reviewed and approved before implementation. A risk and impact analysis of the change to an information asset should be conducted before implementing the change. The FI should ensure all changes are adequately tested in the test environment.",
+    "page_number": "24"
+  },
+  {
+    "question": "What is the role of a change advisory board?",
+    "detailed_summary": "A change advisory board, comprising key stakeholders, should approve and prioritize changes after considering the stability and security implications of the changes to the production environment.",
+    "clause": "7.5.4: A change advisory board, comprising key stakeholders including business and IT management, should be formed to approve and prioritise the changes after considering the stability and security implications of the changes to the production environment.",
+    "page_number": "24"
+  },
+  {
+    "question": "How should software developers be prepared for secure coding?",
+    "detailed_summary": "Software developers should be trained or possess the necessary knowledge and skills to apply secure coding and application security standards during development.",
+    "clause": "6.1.5: The FI should ensure its software developers are trained or have the necessary knowledge and skills to apply the secure coding and application security standards when developing applications.",
+    "page_number": "19"
+  },
+  {
+    "question": "What strategy is essential for application security?",
+    "detailed_summary": "The FI should establish a comprehensive strategy for application security validation and testing. A mixture of static, dynamic, and interactive application security testing methods can be used.",
+    "clause": "6.1.6: It is essential for the FI to establish a comprehensive strategy to perform application security validation and testing. The FI may use a mixture of static, dynamic and interactive application security testing methods to validate the security of the software application.",
+    "page_number": "19"
+  },
+  {
+    "question": "How should third-party and open-source software codes be managed?",
+    "detailed_summary": "A policy and procedure should be established to review and test third-party and open-source software codes before integrating them into the FI’s software. The FI should also monitor updates and vulnerabilities for these codes.",
+    "clause": "6.1.3 - 6.1.4: A policy and procedure on the use of third party and open-source software codes should be established to ensure these codes are subject to review and testing before they are integrated into the FI’s software. To facilitate the remediation of vulnerabilities in a timely manner, the FI should keep track of updates and reported vulnerabilities for third party and open-source software codes that are incorporated in the FI’s software.",
+    "page_number": "19"
+  }
+]
