@@ -78,6 +78,42 @@
     "instruction": "Why is privileged access management important?",
     "input": "Clause 9.2.1, Page 34: Users granted privileged system access have the ability to inflict severe damage on the stability and security of the FI’s IT environment. Access to privileged accounts should only be granted on a need-to-use basis; activities of these accounts should be logged and reviewed as part of the FI’s ongoing monitoring.",
     "output": "Privileged system access can lead to severe damage to the FI’s IT environment. Such access should be granted only on a need-to-use basis, and activities from these accounts should be logged and reviewed regularly. (Clause 9.2.1, Page 34)"
+  },
+  {
+    "instruction": "What is the importance of a robust IT audit function?",
+    "input": "Clause 4.1.1, Page 13: A robust IT audit function provides independent assurance to the board and senior management on the effectiveness of the FI’s technology risk governance and management.",
+    "output": "A robust IT audit function offers independent assurance to the board and senior management about the effectiveness of the FI’s technology risk governance and management. (Clause 4.1.1, Page 13)"
+  },
+  {
+    "instruction": "How should an FI handle third-party services?",
+    "input": "Clause 5.1.1, Page 15: The FI should exercise strong oversight of third-party services, including cloud services, to ensure that the services are performed effectively and in a secure manner.",
+    "output": "An FI should maintain strong oversight of third-party services, including cloud services, to ensure their effective and secure performance. (Clause 5.1.1, Page 15)"
+  },
+  {
+    "instruction": "What is the significance of a technology risk self-assessment?",
+    "input": "Clause 3.2.1, Page 8: A technology risk self-assessment enables the FI to identify, assess, evaluate, and monitor its technology risks in a structured and consistent manner.",
+    "output": "A technology risk self-assessment helps the FI systematically identify, assess, evaluate, and monitor its technology risks. (Clause 3.2.1, Page 8)"
+  },
+  {
+    "instruction": "How should an FI approach the use of open-source software?",
+    "input": "Clause 6.1.3, Page 19: The FI should establish a policy and procedure on the use of third-party and open-source software codes to ensure these codes are subject to review and testing before they are integrated into the FI’s software.",
+    "output": "The FI should have a policy and procedure for using third-party and open-source software codes, ensuring they undergo review and testing before integration. (Clause 6.1.3, Page 19)"
+  },
+  {
+    "instruction": "What measures should be taken to ensure secure software development?",
+    "input": "Clause 6.1.5, Page 19: The FI should ensure its software developers are trained or have the necessary knowledge and skills to apply the secure coding and application security standards when developing applications.",
+    "output": "Software developers should be trained or equipped with the necessary knowledge and skills to apply secure coding and application security standards during development. (Clause 6.1.5, Page 19)"
+  },
+  {
+    "instruction": "How should an FI manage its technology projects?",
+    "input": "Clause 8.1.1, Page 29: The FI should establish a robust project management framework to ensure that technology projects are delivered on time, within budget, and meet the FI’s requirements.",
+    "output": "An FI should have a robust project management framework to ensure timely delivery of technology projects within budget and in line with the FI’s requirements. (Clause 8.1.1, Page 29)"
+  },
+  {
+    "instruction": "What is the role of the board in technology risk governance?",
+    "input": "Clause 3.1.1, Page 7: The board has the overall responsibility for the sound and prudent management of technology risks in the FI and should set clear direction on the FI’s technology risk appetite and strategy.",
+    "output": "The board is responsible for the prudent management of technology risks in the FI, setting clear directions on the FI’s technology risk appetite and strategy. (Clause 3.1.1, Page 7)"
   }
 ]
+
 
