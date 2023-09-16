@@ -1,1 +1,37 @@
-
+[
+  {
+    "instruction": "How should an FI enhance its understanding of technology risk management practices?",
+    "input": "Clause 3.6.4, Page 11: The training programme should be reviewed periodically to ensure its contents remain current and relevant. The review should take into consideration changes in the FI’s IT security policies, prevalent and emerging risks, and the evolving cyber threat landscape.",
+    "output": "An FI should periodically review its training programme to ensure its content is current and relevant, considering changes in IT security policies, prevalent risks, emerging risks, and the evolving cyber threat landscape. (Clause 3.6.4, Page 11)"
+  },
+  {
+    "instruction": "What are the considerations for information asset management?",
+    "input": "Clause 3.3.1, Page 9: The FI should establish information asset management practices that include the identification of information assets that support the FI’s business and delivery of financial services.",
+    "output": "Information asset management should include practices that identify information assets supporting the FI’s business and the delivery of financial services. (Clause 3.3.1, Page 9)"
+  },
+  {
+    "instruction": "What are the potential risks of IoT devices?",
+    "input": "Clause 11.5.2, Page 42: Many IoT devices are designed without or with minimal security controls. If compromised, these devices can be commandeered and used to gain unauthorised access to the FI’s network and systems or as a launch pad for cyber attacks on the FI.",
+    "output": "IoT devices, often designed with minimal security controls, pose risks. If compromised, they can be used for unauthorized access or to launch cyber attacks on the FI. (Clause 11.5.2, Page 42)"
+  },
+  {
+    "instruction": "How should the FI handle the security of IoT devices?",
+    "input": "Clause 11.5.4, Page 42: The FI should implement controls to prevent unauthorised access to IoT devices.",
+    "output": "The FI should implement controls to prevent unauthorized access to IoT devices. (Clause 11.5.4, Page 42)"
+  },
+  {
+    "instruction": "What measures should be taken for secure data transmission through APIs?",
+    "input": "Clause 6.4.5, Page 21: Strong encryption standards and key management controls should be adopted to secure transmission of sensitive data through APIs.",
+    "output": "For secure data transmission through APIs, strong encryption standards and key management controls should be adopted. (Clause 6.4.5, Page 21)"
+  },
+  {
+    "instruction": "What precautions should be taken before deploying an API?",
+    "input": "Clause 6.4.6, Page 21: A robust security screening and testing of the API should be performed between the FI and its third parties before it is deployed into production. The FI should log the access sessions by third parties, such as the identity of the party making the API connections, date and time, as well as the data being accessed.",
+    "output": "Before deploying an API, it should undergo robust security screening and testing. The FI should also log third-party access sessions, capturing details like identity, connection timings, and accessed data. (Clause 6.4.6, Page 21)"
+  },
+  {
+    "instruction": "How can an FI detect suspicious activities on APIs?",
+    "input": "Clause 6.4.7, Page 21: Detective measures, such as technologies that provide real-time monitoring and alerting, should be instituted to provide visibility of the usage and performance of APIs, and detect suspicious activities.",
+    "output": "To detect suspicious activities on APIs, an FI should institute detective measures like real-time monitoring and alerting technologies for visibility on API usage and performance. (Clause 6.4.7, Page 21)"
+  }
+]
