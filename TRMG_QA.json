@@ -43,8 +43,8 @@
     "instruction": "Why is privileged access management important?",
     "input": "Clause 9.2.1, Page 34: Users granted privileged system access have the ability to inflict severe damage on the stability and security of the FI’s IT environment. Access to privileged accounts should only be granted on a need-to-use basis; activities of these accounts should be logged and reviewed as part of the FI’s ongoing monitoring.",
     "output": "Privileged system access can lead to severe damage to the FI’s IT environment. Such access should be granted only on a need-to-use basis, and activities from these accounts should be logged and reviewed regularly. (Clause 9.2.1, Page 34)"
-  }
-    {
+  },
+  {
     "instruction": "How should an FI enhance its understanding of technology risk management practices?",
     "input": "Clause 3.6.4, Page 11: The training programme should be reviewed periodically to ensure its contents remain current and relevant. The review should take into consideration changes in the FI’s IT security policies, prevalent and emerging risks, and the evolving cyber threat landscape.",
     "output": "An FI should periodically review its training programme to ensure its content is current and relevant, considering changes in IT security policies, prevalent risks, emerging risks, and the evolving cyber threat landscape. (Clause 3.6.4, Page 11)"
